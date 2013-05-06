@@ -1,0 +1,10 @@
+{
+  "id": "foo",
+  "uid": "2001",
+  "comment": "Example User",
+  "password": "",
+  "ssh_keys": [
+    "ssh-rsa ABCDEFGHI....."
+  ],
+  "groups": [ "sysadmin" ]
+}

@@ -1,0 +1,15 @@
+{
+  "run_list": [
+    "role[base]",
+    "role[webserver]",
+    "role[dbserver]",
+    "role[ruby]",
+    "recipe[chefsoloenv]"
+   ],
+   "mysql": {
+     "server_root_password": "",
+     "server_repl_password": "",
+     "server_debian_password": ""
+   }
+}
+
