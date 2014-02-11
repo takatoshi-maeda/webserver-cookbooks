@@ -1,4 +1,3 @@
-
 # Webサーバー構築サンプルCookbook
 ## 概要
 ChefSoloを使って簡単にサーバー環境を構築するサンプルです。  
@@ -239,4 +238,4 @@ Vagrant http://www.vagrantup.com/
 
 serverspec http://serverspec.org/
 
-[Chef][serverspec]VPSサーバーにnginx+mysql+rubyの環境を30分で構築する http://takatoshimaeda.github.io/blog/2013/05/07/create-server-30-minutes/
+[Chef][serverspec]VPSサーバーにnginx+mysql+rubyの環境を30分で構築する http://takatoshimaeda.github.io/blog/2013/05/07/create-server-30-minutes.html
